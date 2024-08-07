@@ -1,11 +1,3 @@
-// Remove the AWS SDK import
-// const AWS = require('aws-sdk');
-
-// If using AWS Bedrock, remove the initialization for now
-// const bedrock = new AWS.Bedrock({
-//     region: 'us-east-1' // Use your specific AWS region
-// });
-
 /**
  * @type {import('@types/aws-lambda').APIGatewayProxyHandler}
  */

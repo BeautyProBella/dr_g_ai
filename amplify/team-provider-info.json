@@ -15,7 +15,7 @@
       "function": {
         "drgwebapp9e94a7ca": {
           "deploymentBucketName": "amplify-drgwebapp-dev-ed503-deployment",
-          "s3Key": "amplify-builds/drgwebapp9e94a7ca-5249706743502b37784a-build.zip"
+          "s3Key": "amplify-builds/drgwebapp9e94a7ca-4f693367674d47304a6b-build.zip"
         }
       }
     }
