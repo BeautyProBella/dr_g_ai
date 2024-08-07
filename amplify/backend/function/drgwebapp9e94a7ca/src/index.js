@@ -1,4 +1,4 @@
-// Import the AWS SDK
+// Import the AWS SDK with change
 const AWS = require('aws-sdk');
 
 // Initialize the Bedrock client
