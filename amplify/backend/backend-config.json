@@ -1,0 +1,27 @@
+{
+  "function": {
+    "drgwebapp9e94a7ca": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_function_drgwebapp9e94a7ca_deploymentBucketName": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "drgwebapp9e94a7ca"
+        }
+      ]
+    },
+    "AMPLIFY_function_drgwebapp9e94a7ca_s3Key": {
+      "usedBy": [
+        {
+          "category": "function",
+          "resourceName": "drgwebapp9e94a7ca"
+        }
+      ]
+    }
+  }
+}

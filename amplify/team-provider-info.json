@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-drgwebapp-dev-ed503-authRole",
+      "UnauthRoleArn": "arn:aws:iam::449164402570:role/amplify-drgwebapp-dev-ed503-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::449164402570:role/amplify-drgwebapp-dev-ed503-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-drgwebapp-dev-ed503-deployment",
+      "UnauthRoleName": "amplify-drgwebapp-dev-ed503-unauthRole",
+      "StackName": "amplify-drgwebapp-dev-ed503",
+      "StackId": "arn:aws:cloudformation:us-east-1:449164402570:stack/amplify-drgwebapp-dev-ed503/03267570-54c4-11ef-884d-0e8c9aab3f4d",
+      "AmplifyAppId": "d2arv63cteoa17"
+    },
+    "categories": {
+      "function": {
+        "drgwebapp9e94a7ca": {
+          "deploymentBucketName": "amplify-drgwebapp-dev-ed503-deployment",
+          "s3Key": "amplify-builds/drgwebapp9e94a7ca-63684154376570525a50-build.zip"
+        }
+      }
+    }
+  }
+}
